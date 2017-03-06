@@ -34,8 +34,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://bearmug.github.io/ph/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/ph/journal/"
-  - ABOUT: "https://sunbliss.github.io/ph/about/"
+  - JOURNAL: "https://bearmug.github.io/ph/journal/"
+  - ABOUT: "https://bearmug.github.io/ph/about/"
 
 # All translation keys
 translations:
