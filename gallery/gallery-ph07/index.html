@@ -1,21 +1,14 @@
 ---
 layout: page
-title: "album"
-description: "masonry"
+title: "natural"
+description: "leaves and roots"
 active: gallery
 header-img: "img/gallery-bg.jpg"
-album-title: "my 2nd album"
+album-title:
 images:
- - image_path: /gallery/archive/g02/bg1.jpg
-   caption: IMAGE TITLE
-   mfp-title: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g02/bg2.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
- - image_path: /gallery/archive/g02/bg3.jpg
-   caption: IMAGE TITLE
-   copyright: © photorama
+ - image_path: /gallery/archive/ph07/bg01.jpg
+   caption: FALL BERRIES
+   copyright: © bearmug
 ---
 
 <html class="no-js" lang="en">
@@ -88,7 +81,7 @@ images:
        },
       image: {
          titleSrc: function(item) {
-             return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+              return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
             }
         }
           // other options
