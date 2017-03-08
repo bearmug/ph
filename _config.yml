@@ -12,6 +12,7 @@ deviantart_username:
 flickr_username:
 discus_shortname:
 share: true
+google_analytics: "UA-93341601-1"
 
 # Owner/author information
 owner:
