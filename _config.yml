@@ -1,7 +1,7 @@
 # Site settings
 title: !PhotograpHi
-email: ""
-description: "Photos"
+email: "pavel.fadeev@gmail.com"
+description: "Photo"
 url: "https://bearmug.github.io"
 baseurl: "/ph"
 facebook_username:
@@ -10,7 +10,6 @@ instagram_username:
 github_username:  "bearmug"
 deviantart_username:
 flickr_username:
-discus_shortname: disqus_dwf3E9TSpf
 share: true
 google_analytics: "UA-93341601-1"
 
@@ -24,13 +23,13 @@ owner:
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
 # Set 'provider' to false to turn commenting off globally.
-#Set 'provider: false' to disable comments globally.
+# Set 'provider: false' to disable comments globally.
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
   provider : disqus
   disqus :
-    short_name : ""
+    short_name : "bearmug-github-io"
 
 # Internal nav
 nav:
