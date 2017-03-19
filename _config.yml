@@ -71,3 +71,17 @@ sitemap:
         - "/writing/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
+
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      disqus: true
+
+  -
+    scope:
+      path: "gallery"
+    values:
+      disqus: true
