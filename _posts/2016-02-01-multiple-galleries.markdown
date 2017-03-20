@@ -6,28 +6,28 @@ active: "journal"
 image:
   feature: "pc007.jpg"
 date: "2016-02-01"
-header-img: "img/postcover/pc007.jpg"
+header-img: "img/postcover/pc008.jpg"
 comments: "true"
 gallery1: 
-  - image_path: /img/galleries/g01/bg1.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg2.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g01/bg3.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama 
+  - image_path: /gallery/archive/ph01/bg01.jpg
+    image-caption:
+    image-copyright: © bearmug
+  - image_path: /gallery/archive/ph01/bg02.jpg
+    image-caption:
+    image-copyright: © bearmug
+  - image_path: /gallery/archive/ph01/bg03.jpg
+    image-caption:
+    image-copyright: © bearmug
 gallery2: 
-  - image_path: /img/galleries/g02/bg1.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g02/bg2.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama
-  - image_path: /img/galleries/g02/bg3.jpg
-    image-caption: IMAGE TITLE
-    image-copyright: © photorama 
+  - image_path: /gallery/archive/ph05/bg01.jpg
+    image-caption:
+    image-copyright: © bearmug
+  - image_path: /gallery/archive/ph05/bg02.jpg
+    image-caption:
+    image-copyright: © bearmug
+  - image_path: /gallery/archive/ph05/bg03.jpg
+    image-caption:
+    image-copyright: © bearmug
 ---
 
 
@@ -68,5 +68,3 @@ gallery2:
 		</div><!-- end of WRAPPER __ -->
 	</section>
 
-
-Photography by: <a href="https://unsplash.com/photos/j0g8taxHZa0">UNSPLASH</a>
