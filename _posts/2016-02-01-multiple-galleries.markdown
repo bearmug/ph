@@ -4,11 +4,12 @@ title: "Multiple Galleries"
 subtitle: "A post with multiple galleries arranged with ISOTOPE"
 active: "journal"
 image:
-  feature: "pc007.jpg"
-date: "2016-02-01"
-header-img: "img/postcover/pc008.jpg"
-comments: "true"
-gallery1: 
+  feature: "bg01.jpg"
+date: "2017-03-21"
+header-img: "gallery/archive/ph01/bg01.jpg"
+categories: [photography]
+tags: [blog, jekyll]
+gallery1:
   - image_path: /gallery/archive/ph01/bg01.jpg
     image-caption:
     image-copyright: © bearmug
